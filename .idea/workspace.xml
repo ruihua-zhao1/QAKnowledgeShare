@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3386e374-619a-4539-8869-8087c9ddcf99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ckl55EyMFz0m1Dr9Tmibe0uPiw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.Hello.searchSelenium">
+    <configuration name="Hello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QACommunitydemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Hello" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hello.searchSelenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QACommunitydemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Hello" />
+      <option name="METHOD_NAME" value="searchSelenium" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Hello.searchSelenium" />
+        <item itemvalue="JUnit.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3386e374-619a-4539-8869-8087c9ddcf99" name="Default Changelist" comment="" />
+      <created>1591080285308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591080285308</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="260" key="GridCell.Tab.0.bottom" timestamp="1591081135588">
+      <screen x="0" y="23" width="1680" height="985" />
+    </state>
+    <state width="1638" height="260" key="GridCell.Tab.0.bottom/0.23.1680.985@0.23.1680.985" timestamp="1591081135588" />
+    <state width="1638" height="260" key="GridCell.Tab.0.center" timestamp="1591081135587">
+      <screen x="0" y="23" width="1680" height="985" />
+    </state>
+    <state width="1638" height="260" key="GridCell.Tab.0.center/0.23.1680.985@0.23.1680.985" timestamp="1591081135587" />
+    <state width="1638" height="260" key="GridCell.Tab.0.left" timestamp="1591081135587">
+      <screen x="0" y="23" width="1680" height="985" />
+    </state>
+    <state width="1638" height="260" key="GridCell.Tab.0.left/0.23.1680.985@0.23.1680.985" timestamp="1591081135587" />
+    <state width="1638" height="260" key="GridCell.Tab.0.right" timestamp="1591081135588">
+      <screen x="0" y="23" width="1680" height="985" />
+    </state>
+    <state width="1638" height="260" key="GridCell.Tab.0.right/0.23.1680.985@0.23.1680.985" timestamp="1591081135588" />
+    <state x="378" y="168" key="Maven.ArtifactSearchDialog" timestamp="1591080380699">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="378" y="168" key="Maven.ArtifactSearchDialog/0.23.1680.984@0.23.1680.984" timestamp="1591080380699" />
+  </component>
+</project>
